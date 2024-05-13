@@ -7,10 +7,9 @@
 * Suposed specialization - data processing, website parsing, SQL requests, bots, etc.
 * My task is to start working on my specialty as quick as possible.
 
-![Photo](D:\Рабочий стол\Для резюме.png)
+![Для резюме](https://github.com/Miver-13/Task-3-_-HW-Team-Work-2-/assets/169260497/727b840b-2bc9-4273-98f8-31ff71b82750)
 
 _config.yml:
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
-![Для резюме](https://github.com/Miver-13/Task-3-_-HW-Team-Work-2-/assets/169260497/727b840b-2bc9-4273-98f8-31ff71b82750)
